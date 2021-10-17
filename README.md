@@ -1,2 +1,1 @@
-# yarn-template
-Template for yarn workspaces project
+Template for yarn projects
